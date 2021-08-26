@@ -1,0 +1,59 @@
+.transactions{
+    float: left;
+    /* margin-left: 60px;
+    margin-top: 50px; */
+}
+
+.transactions .header {
+        padding: 20px;
+        max-width: 1320px;
+        margin-left: 80px;
+        text-align: center;
+        background: #fbf0ff;
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+        font-family: 'Hammersmith One', sans-serif;
+	    text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+	    position: relative;
+	    
+}
+
+.table-container{
+    margin-left: 80px;
+    margin-top: 40px;
+    width: 1350px;
+    max-width: fit-content;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Hammersmith One', sans-serif;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+	position: relative;
+}
+
+.table-container .table{
+    background-color: #fbf0ff;
+    width: 1350px;
+}
+
+.transactions .buttons{
+    
+    margin-left: 100px;
+    margin-top: 35px;
+    margin-inline-end: 50px;
+  
+    display: inline-block;
+   
+}
+
+.transactions .upload{
+    display: none;
+    margin: 50px;
+}
+
+.transactions .logout{
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+.transactions .label{
+    text-align: center
+}
